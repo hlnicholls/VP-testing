@@ -1,9 +1,7 @@
-pulearn==0.0.7
-shap==0.40.0
+pulearn
+shap
 pandas
 numpy
-time
-re
 matplotlib
 seaborn
 sklearn
