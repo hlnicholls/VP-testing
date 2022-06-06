@@ -1,8 +1,8 @@
 # VP-testing
 
-Setup to run and/or edit the code online without any environment setup
+Work in progress variant prioritisation pipeline
 
-Click the badge or link below to run:
+Click the badge or link below to run code without any environment setup:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hlnicholls/VP-testing/HEAD)
 
